@@ -9,12 +9,13 @@
   "author": "Eric Abouaf <eric.abouaf@gmail.com>",
   "license": "MIT",
   "keywords": [
-      "mogy-app"
+    "mogy-app"
   ],
   "dependencies": {
-    "minimist": "^1.1.0",
-    "aws-swf": "4.1.0",
     "async": "0.9.0",
-    "colors": "1.0.3"
+    "aws-swf": "4.1.0",
+    "colors": "1.0.3",
+    "minimist": "^1.1.0",
+    "q": "^1.1.2"
   }
 }
